@@ -24,8 +24,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
+title: guguggagga
+email: guguggagga@gmail.com
 author: GitHub User
 copyright: Copyright © 1970-2010
 description: >- # this means to ignore newlines until "baseurl:"
@@ -76,9 +76,9 @@ yat:
 #     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
 #     text: Japanese
 #
-#   - lang: ko
-#     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-#     text: Korean
+  - lang: ko
+    img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+    text: Korean
 #
 #   - lang: ru
 #     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
